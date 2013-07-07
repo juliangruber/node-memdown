@@ -13,7 +13,7 @@
       , "url"             : "https://github.com/rvagg/node-memdown.git"
     }
   , "dependencies" : {
-        "abstract-leveldown" : "~0.7.0"
+        "abstract-leveldown" : "git://github.com/rvagg/node-abstract-leveldown.git#no-bind"
     }
   , "devDependencies" : {
         "tap"             : "*"
